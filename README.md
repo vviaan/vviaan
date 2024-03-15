@@ -12,6 +12,6 @@
 
 ### Technologies i use:
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=ubuntu)](https://ubuntu.com/)
-[![GPT-4](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=openai)](https://ubuntu.com/)
-[![VSC](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=visualstudiocode)](https://ubuntu.com/)
-[![MongoDB](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=mongodb)](https://ubuntu.com/)
+[![GPT-4](https://img.shields.io/badge/-GPT+4-141414?style=flat&logo=openai)](https://ubuntu.com/)
+[![VSC](https://img.shields.io/badge/-Visual+Studio+Code-141414?style=flat&logo=visualstudiocode)](https://ubuntu.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-141414?style=flat&logo=mongodb)](https://ubuntu.com/)
