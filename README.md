@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=500&color=CBA6F7&center=true&vCenter=true&random=true&width=435&lines=Hi!+Im+Vian.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&duration=4500&pause=1000&color=EA6C06&center=true&vCenter=true&random=false&width=435&lines=Hi!+I'm+Vian%2C+a+self-taught+developer)](https://git.io/typing-svg)
 
 ### Technologies I use
 
