@@ -15,3 +15,4 @@
 [![GPT-4](https://img.shields.io/badge/-GPT%204-141414?style=flat&logo=openai)](https://ubuntu.com/)
 [![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-141414?style=flat&logo=visualstudiocode)](https://ubuntu.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-141414?style=flat&logo=mongodb)](https://ubuntu.com/)
+[![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)](https://ubuntu.com/)
