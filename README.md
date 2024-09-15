@@ -11,7 +11,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-141414?style=flat&logo=sqlite)
-[![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-141414?style=flat&logo=amazonaws)](https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-141414?style=flat&logo=amazonwebservices)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)](https://git-scm.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-141414?style=flat&logo=intellijidea)](https://www.jetbrains.com/idea/)
