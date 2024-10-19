@@ -1,6 +1,4 @@
-[![Typing 
-SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=29&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Heya!+My+name+is+vian.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=29&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Heya!+My+name+is+vian.)](https://git.io/typing-svg)
 ### Stuff I Use
 
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
